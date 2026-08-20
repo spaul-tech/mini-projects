@@ -9,7 +9,7 @@ A Python-based website monitoring tool that checks website availability and resp
 - Saves reports as CSV
 
 ## Output  
-<img src="https://github.com/spaul-tech/mini-website_monitor/blob/main/output.png?raw=true">
+<img width="786" height="143" alt="monitor-output" src="https://github.com/user-attachments/assets/c66246c1-80e7-49b2-8d98-36d09f11a12f" />
 
 ## Technologies
 - Python

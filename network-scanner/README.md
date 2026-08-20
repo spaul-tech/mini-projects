@@ -19,7 +19,7 @@ then hit enter and wait for sometime.
 
 ## Screenshot
 <p align="center">
-  <img src="scan_report.png" alt="Payload-Image" width="900">
+   <img width="1225" height="327" alt="scan-results" src="https://github.com/user-attachments/assets/3f424cce-140e-433f-b025-613ef03474d2" />
 </p>
       
 ## Requirements

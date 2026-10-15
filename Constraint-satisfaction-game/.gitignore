@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# pygbag build output (the deployable copy lives in web/)
+build/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
